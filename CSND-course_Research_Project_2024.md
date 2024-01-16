@@ -216,7 +216,7 @@ Hints:
 - If RefSeq track is not visible, go to “Genes and Gene Predictions” section in the UCSC Genome Browser and select “Full” option in the “NCBI RefSeq” element.
 - Click on the candidate gene in the RefSeq track.
 - Copy the RefSeq accession ID
-- <a name="_int_9dpfw2mk"></a>To designi primers you can use the NCBI primer-blast website at: <https://www.ncbi.nlm.nih.gov/tools/primer-blast/>
+- <a name="_int_9dpfw2mk"></a>To design primers you can use the NCBI primer-blast website at: <https://www.ncbi.nlm.nih.gov/tools/primer-blast/>
 - Paste the RefSeq ID in  “Enter accession, gi, or FASTA sequence” section. 
 - Under “Exon/Intron selection” -> “Exon junction span” -> select “primer must span an exon-exon junction” or “Primer pair must be separated by at least one intron on the corresponding genomic DNA” (Bonus question: why do you think it is important that the primer spans an exon or must be separated by at least one intron?).
 - Take a screenshot of this page. This screenshot is sufficient as an answer for the current question (i.e., **Q15**). 
